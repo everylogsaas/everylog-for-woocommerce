@@ -19,7 +19,7 @@ You will also be able to specify different tags, to be used to filter the variou
 
 ## TODO
 
-[ ] Translations
+- [ ] Translations
 
 ## Contributing
 
