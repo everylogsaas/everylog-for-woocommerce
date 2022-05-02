@@ -2,13 +2,17 @@
     display: none;
 }
 
+.form-table td {
+  padding: 15px 10px 15px 0px;
+}
+
 .form-table .el_api_card {
     max-width: 100% !important;
     padding: 0;
     border: none;
     box-shadow: 0 0 6px rgb(0 0 0 / 8%) !important;
     background: #fff;
-    border-radius: 12px;
+    border-radius: 3px;
 }
 
 .el_api_main {
@@ -31,6 +35,8 @@
     background: #373737;
     color: #ffff;
     padding: 18px 38px 18px 38px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
 }
 
 .right-sec h2 {
@@ -60,6 +66,11 @@
     margin-bottom: 32px;
     padding: 15px 15px 15px 25px;
     margin-top: 0 !important;
+}
+
+.left-sec p.attention-text {
+  font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .register-content {
@@ -106,15 +117,15 @@
     flex-wrap: wrap;
 }
 
-.el_api_exammple {
+.el_api_example {
     background: #fff;
     color: #585858;
-    border-radius: 8px;
+    border-radius: 3px;
     padding: 8px 12px;
     margin-bottom: 22px;
 }
 
-.el_api_exammple h6 {
+.el_api_example h6 {
     background: transparent;
     margin: 0;
     color: #5c5c5c;
@@ -124,7 +135,7 @@
     padding-bottom: 6px;
 }
 
-.el_api_exammple p {
+.el_api_example p {
     font-size: 15px;
     font-weight: 400;
     line-height: 21px;
@@ -163,7 +174,7 @@
 .el_api_custom_label::before {
     width: 46px;
     border-radius: 60px;
-    left: -2.25rem;
+    left: -1.7rem;
     pointer-events: all;
     height: 20px;
     transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
@@ -179,7 +190,7 @@
     width: 16px;
     height: 16px;
     top: 7px;
-    left: calc(-35px + 2px);
+    left: calc(-25px + 2px);
     background-color: #adb5bd;
     border-radius: 0.5rem;
     transition: transform .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out, -webkit-transform .15s ease-in-out;
@@ -245,4 +256,5 @@ input::placeholder {
 .el_api_main .form-table label {
     font-size: 18px;
     font-weight: 500;
+    margin-left: 3px
 }

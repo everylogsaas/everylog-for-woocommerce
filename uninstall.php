@@ -4,7 +4,7 @@
  *
  * Uninstalling
  *
- * @package Every Log
+ * @package EveryLog
  * @version 1.0.0
  */
 
