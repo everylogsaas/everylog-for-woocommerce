@@ -1,6 +1,6 @@
 # EveryLog for WooCommerce
 
-A fantastic (and simple) gem to interact with the EveryLog API
+A fantastic (and simple) plugin to interact with the EveryLog API
 
 ## Installation
 
