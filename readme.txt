@@ -15,14 +15,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Are you running a WooCommerce online shop?
 With notifications you have the possibility to know in real time whether your customers have performed specific actions or whether potential customers have contacted you. By setting up notifications you can find out if your customers have taken specific actions, without having to go to the relevant section individually and losing valuable time. 
 An example of actions you can monitor with notifications are: 
-purchases
-newsletter subscription
-creation of a new account
-completed orders
-info requests
-release reviews 
-social media comments
-sending emails
+- purchases
+- newsletter subscription
+- creation of a new account
+- completed orders
+- info requests
+- release reviews 
+- social media comments
+- sending emails
 
 == Installation ==
 
