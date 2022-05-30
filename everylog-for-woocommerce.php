@@ -19,7 +19,7 @@ if (!defined('EFW_DIR')) {
   define('EFW_DIR', dirname(__FILE__));      // Plugin dir
 }
 if (!defined('EFW_VERSION')) {
-  define('EFW_VERSION', '1.0.1');      // Plugin Version
+  define('EFW_VERSION', '1.0.2');      // Plugin Version
 }
 if (!defined('EFW_NAME')) {
   define('EFW_NAME', 'EveryLog WooCommerce');      // Plugin Name
